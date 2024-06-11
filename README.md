@@ -1,5 +1,3 @@
-# ai-case-study
-
 # Using Data and AI to tell stories...let's meet Dataiku!
 
 ## Overview and Origin
@@ -58,7 +56,7 @@ I think this would open up their product to more clients that don't hold a stron
 * Why are these technologies appropriate for your solution?
 
 ## Resources
-*[Dataiku Wikipedia](https://en.wikipedia.org/wiki/Dataiku)
-*[Dataiku About page](https://www.dataiku.com/company/)
-*[Dataiku Vision](https://knowledge.dataiku.com/latest/getting-started/about-dataiku/concept-value-proposition.html)
-*[Company Impact Results](https://pages.dataiku.com/forrester-tei#:~:text=Customer%20interviews%20and%20financial%20analysis,making%20on%20key%20business%20activities.)
+[Dataiku Wikipedia](https://en.wikipedia.org/wiki/Dataiku)
+[Dataiku About page](https://www.dataiku.com/company/)
+[Dataiku Vision](https://knowledge.dataiku.com/latest/getting-started/about-dataiku/concept-value-proposition.html)
+[Company Impact Results](https://pages.dataiku.com/forrester-tei#:~:text=Customer%20interviews%20and%20financial%20analysis,making%20on%20key%20business%20activities.)
